@@ -1,0 +1,18 @@
+#+TITLE: Computation with Python
+*** Python was deliberately designed to transcend complexity 
+
+** Simplicity 
+ - Turing Machine 
+ - Lambda Calculus
+
+** Limits
+ - The Halting Problem (undecidable problem) 
+ 
+** Structure 
+  - Turing Equivalence 
+  - Chomsky Hierarchy 
+      1. Regular Expressions 
+      2. Recognize Python 
+      3. Recognize C++, Javascript 
+      4. Turing-equivalent 
+  - Finite state machines
