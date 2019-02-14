@@ -6,8 +6,8 @@ user.save()
 
 
 {
-   "B" , s1 -> X, R, s2
-   "B" , s2 -> B, L, s3
-   "X" , s3 -> B, R, s4
-   "B" , s4 -> B, L, s1
+   B , s1 -> X, R, s2
+   B , s2 -> B, L, s3
+   X , s3 -> B, R, s4
+   B , s4 -> B, L, s1
 }
